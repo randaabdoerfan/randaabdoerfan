@@ -1,9 +1,9 @@
 <h1 align="center">
-Hi 👋, I'm Randa Erfan
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Randa+Erfan" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-Full-Stack Developer | React.js • Next.js • Node.js
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
 </h3>
 
 <p align="center">
