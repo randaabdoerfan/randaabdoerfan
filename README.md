@@ -164,7 +164,10 @@ A full-stack ticket management platform with role-based dashboards, real-time ch
 </table>
 
 ---
-
+<table>
+<tr>
+<td width="50%">
+  
 ## 🎫 Ticket Management System
 
 Role-based ticket management application with dashboards, authentication, and API integration.
@@ -176,9 +179,14 @@ Role-based ticket management application with dashboards, authentication, and AP
 📂 **Repository**
 
 https://github.com/randaabdoerfan/Tickets-Dashboard
-
+</td>
+</tr>
+</table>
 ---
-
+<table>
+<tr>
+<td width="50%">
+  
 ## 📚 Learnify
 
 AI-powered online learning platform with personalized learning roadmaps and secure authentication.
@@ -190,9 +198,14 @@ AI-powered online learning platform with personalized learning roadmaps and secu
 📂 **Repository**
 
 https://github.com/randaabdoerfan/Learnify
-
+</td>
+</tr>
+</table>
 ---
-
+<table>
+<tr>
+<td width="50%">
+  
 ## 📖 Digital Library
 
 A full-stack MERN application for managing books, users, and borrowing operations.
@@ -204,9 +217,14 @@ A full-stack MERN application for managing books, users, and borrowing operation
 📂 **Repository**
 
 https://github.com/randaabdoerfan/Digital-Library
-
+</td>
+</tr>
+</table>
 ---
-
+<table>
+<tr>
+<td width="50%">
+  
 ## 🎬 Movies Website
 
 Responsive movie discovery application with authentication, search, and favorites.
@@ -222,6 +240,9 @@ https://movies-two-livid.vercel.app/
 📂 **Repository**
 
 https://github.com/randaabdoerfan/Movies-Website
+</td>
+</tr>
+</table>
 
 # 📊 GitHub Stats
 
