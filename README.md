@@ -137,7 +137,7 @@ Building scalable, responsive, and user-focused web applications.
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ## 🚀 FixFlow
 
@@ -166,7 +166,7 @@ A full-stack ticket management platform with role-based dashboards, real-time ch
 ---
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
   
 ## 🎫 Ticket Management System
 
@@ -185,7 +185,7 @@ https://github.com/randaabdoerfan/Tickets-Dashboard
 ---
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
   
 ## 📚 Learnify
 
@@ -204,7 +204,7 @@ https://github.com/randaabdoerfan/Learnify
 ---
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
   
 ## 📖 Digital Library
 
@@ -223,7 +223,7 @@ https://github.com/randaabdoerfan/Digital-Library
 ---
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
   
 ## 🎬 Movies Website
 
